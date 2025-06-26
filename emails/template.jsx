@@ -5,7 +5,7 @@ import * as React from "react";
 
 const PREVIEW_DATA = {
   monthlyReport: {
-    userName: "John Doe",
+    userName: "Atharv Ghadigaonkar",
     type: "monthly-report",
     data: {
       month: "December",
@@ -28,7 +28,7 @@ const PREVIEW_DATA = {
     },
   },
   budgetAlert: {
-    userName: "John Doe",
+    userName: "Atharv Ghadigaonkar",
     type: "budget-alert",
     data: {
       percentageUsed: 85,

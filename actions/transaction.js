@@ -23,7 +23,7 @@ export async function createTransaction(data) {
 
     const decision = await aj.protect(req, {
       userId,
-      requested: 5,
+      requested: 1,
     });
 
     if (decision.isDenied()) {
